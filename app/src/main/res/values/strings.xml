@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">McPhoto</string>
+
+    <!-- Request Permission Messages -->
+    <string name="permission_granted">Permission has been granted.</string>
+    <string name="permission_denied">Permission denied. Please, go to the phone settings.</string>
+    <string name="permission_exception">Permission launcher, need to be register before usage!</string>
+
+    <!-- Image Capture Messages -->
+    <string name="image_capture_success">Image has been captured successfully.</string>
+    <string name="image_capture_failed">Image capture failed.</string>
+
+    <!-- Image Capture Messages -->
+    <string name="image_write_success">Image has been saved successfully.</string>
+    <string name="image_write_failed">Image saving failure.</string>
+
+    <!-- Camera Binding Messages -->
+    <string name="camera_binding_success">Image has been saved successfully.</string>
+    <string name="camera_binding_failed">Image capture failed.</string>
+
+    <!-- Media Store Content Values -->
+    <string name="media_store_content_values_id">id</string>
+    <string name="media_store_content_values_name">Image_%s</string>
+    <string name="media_store_content_values_type">image/jpeg</string>
+
+    <!-- Content Description -->
+    <string name="content_description_item_image">Image</string>
+    <string name="content_description_button_camera">Open camera</string>
+    <string name="content_description_button_take_photo">Take photo</string>
+</resources>
